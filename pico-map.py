@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 # MIT License
 #
-# Copyright (c) 2016 Scott Shawcroft for Adafruit Industries
-# Copyright (c) 2018 Ralph Versteegen
+# Copyright (c) 2023 zsdotkr@gmail.com
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
